@@ -1,3 +1,8 @@
+/// For exceed the core requirements:
+/// I added two new features to the Journal Program: a Journal Summary and a Prompt Generator.
+/// 1) A Journal Summary has been added to track entries, including the day with the most entries, to encourage frequent writing on journal. 
+/// 2) A Prompt Generator has also been added because sometimes it's difficult to know what to write, and this feature can help you decide what to write in your journal.
+
 using System;
 internal class Program
 {
